@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Thaleonus]
+# 👋 Hey, I'm Thaleonus
 
 I’m a developer focused on building systems, gameplay mechanics, and interactive experiences.
 
@@ -34,7 +34,7 @@ I’m a developer focused on building systems, gameplay mechanics, and interacti
 
 ## 📫 Contact
 
-- GitHub: [Thaleonus]
+- GitHub: Thaleonus
 
 ---
 
