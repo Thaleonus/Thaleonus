@@ -35,6 +35,7 @@ I’m a developer focused on building systems, gameplay mechanics, and interacti
 ## 📫 Contact
 
 - GitHub: Thaleonus
+- Discord: Thaleonus
 
 ---
 
